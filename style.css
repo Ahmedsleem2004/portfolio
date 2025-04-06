@@ -55,6 +55,7 @@ section{
     background-position:center ;
     background-attachment: fixed;
     height: 100vh;
+    overflow: hidden;
 }
 .main h2 {
     color: white;
